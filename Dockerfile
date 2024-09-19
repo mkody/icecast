@@ -1,4 +1,4 @@
-FROM docker.io/library/alpine:3.18
+FROM docker.io/library/alpine:3.20
 LABEL maintainer "gh@kdy.ch"
 
 RUN addgroup -S icecast && \
