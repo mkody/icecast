@@ -1,5 +1,5 @@
 FROM docker.io/library/alpine:3.21
-LABEL maintainer "gh@kdy.ch"
+LABEL maintainer="gh@kdy.ch"
 
 COPY ./docker-entrypoint.sh /entrypoint.sh
 

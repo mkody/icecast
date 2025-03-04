@@ -1,5 +1,3 @@
-[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/mkody/icecast)](https://hub.docker.com/r/mkody/icecast)
-
 # icecast
 > Icecast 2 for Docker
 
